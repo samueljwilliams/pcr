@@ -1,2 +1,27 @@
 {
+    "name": "mitgedanken/php-conent-repository",
+    "description": "PHP Content Repository",
+    "version": "0.2022.0",
+    "type": "library",
+    "keywords": ["content", "repository", "pcr", "management"],
+    "homepage": "https://github.com/mitgdForker/php-content-repository",
+    "license": ["GPL-3.0-or-later", "Apache-2.0"],
+    "authors":
+    [{
+        "name": "Samuel J. Williams",
+        "email": "",
+        "homepage": "",
+        "role": "Original Developer"
+    },
+    {
+        "name": "Sara Tasche",
+        "email": "sara.dolores.tasche@gmail.com",
+        "homepage": "",
+        "role": "Developer"
+    }],
+    "require": {
+        "php": ">=7.4"
+    },
+    "minimum-stability": "alpha",
+    "prefer-stable": true
 }
